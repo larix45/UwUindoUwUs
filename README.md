@@ -11,6 +11,10 @@ It's name should be something like `UwUindoUwUs.bat`.
 It is recomended that you do a full backup of Your system berorehand, because this script chnges system registry (it isn't suppose to do damage), 
 but in any case I'am taking NO responsibility of misuse of this script. Basically you are on your own, when something happens. :wink:
 
+## One line installation
+copy this command `curl https://raw.githubusercontent.com/larix45/UwUindoUwUs/main/UwUindoUwUs.bat --output UwUindoUwUs.bat && ./UwUindoUwUs.bat`
+and paste it into Powershell with administartor rights. To open it click on the start menu with right mouse button and choose something like: "Poweshell (Administrator)".
+
 ## How to uninstall
 If you want to undo changes tahat this script has made just run it with `/d` parameter. It will (hopefully) resore your system to state before this modification was applied.
 
